@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(135deg, #1A1A1A, #2D2D2D);
+  color: #FFF;
+}
+
+* { box-sizing: border-box; }
+
+a { color: #FF5722; text-decoration: none; }
+
+a:hover { color: #E64A19; text-decoration: underline; }
